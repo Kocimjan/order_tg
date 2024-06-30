@@ -1,0 +1,2 @@
+API_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+ADMIN_IDS = [123456789, 987654321]  # Список Telegram ID администраторов
